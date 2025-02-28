@@ -78,6 +78,9 @@ body{
     letter-spacing: 0.5px;
     font-size: 25px;
 }
+.about_section,.menu_section,.gallery_section,.findus_section{
+    padding-top: 6rem;
+}
 .about_section .text_content::before{
     content: '';
     position: absolute;
